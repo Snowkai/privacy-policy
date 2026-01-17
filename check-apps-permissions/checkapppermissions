@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Privacy Policy – Check Apps Permissions</title>
+  <style>
+    body {
+      font-family: "Segoe UI", Roboto, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background-color: #104fad;
+      color: white;
+      padding: 1.5em;
+      text-align: center;
+    }
+    .app-name {
+      font-weight: bold;
+      font-size: 2.2em;
+      margin-top: 0.5em;
+    }
+    main {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 0 1em;
+      background-color: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+      border-radius: 8px;
+    }
+    h1 {
+      color: #ffffff;
+    }
+    h2 {
+      color: #302777;
+    }
+    p {
+      line-height: 1.6;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #777;
+      margin: 2em 0;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Privacy Policy</h1>
+    <p class="app-name">Check Apps Permissions</p>
+  </header>
+  <main>
+    <h2>1. Data Collection</h2>
+    <p>
+      The app does not collect personal data directly. However, it may use third-party services (such as Appodeal) to display ads, which may automatically collect information such as device identifiers, IP address, app usage data, and device type.
+    </p>
+
+    <h2>2. Data Usage</h2>
+    <p>
+      Collected data is used solely for displaying personalized ads and improving app performance through analytics.
+    </p>
+
+    <h2>3. Third-Party Services</h2>
+    <p>
+      This app integrates the Appodeal SDK, which may share data with advertising partners. For more details, please refer to Appodeal’s privacy policy: 
+      <a href="https://www.appodeal.com/privacy-policy" target="_blank">https://www.appodeal.com/privacy-policy</a>
+    </p>
+
+    <h2>4. Data Security</h2>
+    <p>
+      We do not sell, trade, or transfer user data to third parties outside of advertising and analytics providers.
+    </p>
+
+    <h2>5. Consent</h2>
+    <p>
+      By using this app, you agree to the terms outlined in this policy.
+    </p>
+
+    <h2>6. Changes</h2>
+    <p>
+      This policy may be updated. Any changes will be posted on this page.
+    </p>
+  </main>
+  <footer>
+    Last updated: September 10, 2025
+  </footer>
+</body>
+</html>
